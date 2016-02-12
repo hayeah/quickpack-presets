@@ -1,0 +1,18 @@
+{
+  "name": "quickpack-presets",
+  "version": "0.0.1",
+  "description": "Presets for QuickPack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-transform-async-to-generator": "^6.5.0",
+    "babel-plugin-transform-es2015-destructuring": "^6.5.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.5.0",
+    "babel-plugin-transform-runtime": "^6.5.0"
+  },
+}
